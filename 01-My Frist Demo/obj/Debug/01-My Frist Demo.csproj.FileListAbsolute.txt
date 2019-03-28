@@ -1,0 +1,6 @@
+C:\Users\SpringRain\Desktop\0505.Net基础班第一天\01-My Frist Demo\bin\Debug\01-My Frist Demo.exe.config
+C:\Users\SpringRain\Desktop\0505.Net基础班第一天\01-My Frist Demo\bin\Debug\01-My Frist Demo.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第一天\01-My Frist Demo\bin\Debug\01-My Frist Demo.pdb
+C:\Users\SpringRain\Desktop\0505.Net基础班第一天\01-My Frist Demo\obj\Debug\01-My Frist Demo.csprojResolveAssemblyReference.cache
+C:\Users\SpringRain\Desktop\0505.Net基础班第一天\01-My Frist Demo\obj\Debug\01-My Frist Demo.exe
+C:\Users\SpringRain\Desktop\0505.Net基础班第一天\01-My Frist Demo\obj\Debug\01-My Frist Demo.pdb

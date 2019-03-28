@@ -1,0 +1,17 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _01_My_Frist_Demo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("This is My First  Demo");
+            Console.ReadKey();
+        }
+    }
+}
